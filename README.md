@@ -1,6 +1,6 @@
 # Community Code of Conduct
 
-**This policy is a "living" document, and subject to refinement and expansion in the future. Last updated July 24, 2018.**
+**This policy is a "living" document, and subject to refinement and expansion in the future. Last updated August 8th, 2018.**
 
 Everyone participating in the Square Play Club community — including any regularly scheduled or singleton events, Slack channel, or mailing lists — is required to agree to the following Code of Conduct.
 
@@ -45,12 +45,24 @@ If a participant engages in harassing behavior, the Square Play Club may take an
 ## Reporting and Enforcement
 If you are being harassed by a member of the Square Play Club community, notice that someone else is being harassed, or have any other concerns, please contact us immediately via email at [play@squareplay.club](mailto:play@squareplay.club).
 
+## Fair Play for All
 
-### Slack
+Square Play Club bears the motto "Fair Play for All", and this has meaning and bearing in the Code of Conduct.
 
-We are currently evaluating whether or not to create a Slack team for the Square Play Club.
+* Be gracious - when winning, or losing, remember that we are here to enjoy the games and each others' company
+* Be mindful - gaming is a shared experience, and that attempting to wring out every last victory point might not be fun for the rest of the table
+* Be considerate - treat everyone at the table as an equal
+* Ask before offering help - Unsolicited strategy can ruin a game, or imply disparity
+* All games must offer a way to pause the game or "time out". If you are uncomfortable with the subject matter, table talk, or other situation in the game, ask for one. If you are asked for a time out, respect it, and change the behavior immediately.
+* Be kind, above all else.
 
-If we do create a Slack team, reporting tools and guidelines will be added here.
+Fair Play policies are not always violations of the Code of Conduct, but repeated offenses may result in removal from the Square Play Club. 
+
+### Slack / Discord
+
+We are currently evaluating whether or not to create a Slack / Discord team for the Square Play Club.
+
+If we do create a Slack / Discord team, reporting tools and guidelines will be added here.
 
 ## Thanks
 
